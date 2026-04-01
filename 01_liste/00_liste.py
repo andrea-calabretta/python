@@ -1,4 +1,4 @@
-# lista è una struttura di riferimenti ad elementi eterogenei ed è mutabile, e gli elementi possono essere ripetuti
+# lista è una struttura di riferimenti ad elementi eterogenei ed è MUTABILE, e gli elementi possono essere ripetuti
 
 mylist = [] # create an empty list
 
